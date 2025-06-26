@@ -1,0 +1,10 @@
+https://getbootstrap.com/docs/5.3/examples/
+
+=================================
+https://getbootstrap.com/docs/5.3/examples/product/# => Very Good side bars mobile
+https://getbootstrap.com/docs/5.3/examples/dashboard/
+https://getbootstrap.com/docs/5.3/examples/
+https://getbootstrap.com/docs/5.3/examples/cheatsheet/
+https://icons.getbootstrap.com/
+=================================
+https://getbootstrap.com/docs/5.3/examples/jumbotron/  => Good for forms
